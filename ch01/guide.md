@@ -47,8 +47,8 @@ git config --global user.email "your.email@example.com"
 
 要在本地计算机上使用仓库，你需要将其克隆到本地：
 
-```
-git clone https://github.com/your-username/your-repo.git
+```shell
+git clone git@github.com:your-username/your-repo.git
 ```
 
 **替换 `your-username` 和 `your-repo` 为你的 GitHub 用户名和仓库名称。**
@@ -58,8 +58,12 @@ git clone https://github.com/your-username/your-repo.git
 1. 在本地编辑文件。
 2. 使用以下命令将更改添加到暂存区：
 
+
+
 ```
 git add 'filename'
+可以使用 git add . 来把当前目录下所有文件都加进去
+RockRockWhite:"git add .中.是相对当前工作路径的所有文件"
 ```
 
 **记得我说的吗？引号里面的需要改成你自己的东西！**
