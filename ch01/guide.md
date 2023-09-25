@@ -45,6 +45,10 @@ git config --global user.email "your.email@example.com"
 
 ## 6. 克隆仓库
 
+因为我们打算使用ssh的形式来完成和github的通信，所以需要跟着这篇博客来完成ssh的认证
+
+[远程仓库](https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416)， 后续我会自己写一篇更好理解的（画饼）。
+
 要在本地计算机上使用仓库，你需要将其克隆到本地：
 
 ```shell
