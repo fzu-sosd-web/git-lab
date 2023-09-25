@@ -107,7 +107,6 @@ git remote set-url origin new-url
 **解决方案**：这个错误通常表示你不在一个包含Git仓库的目录中。确保你在正确的目录中运行Git命令，或者在目标目录中初始化一个新的Git仓库：
 
 ```
-shellCopy code
 git init
 ```
 
@@ -116,7 +115,6 @@ git init
 **解决方案**：这个错误表示你有未提交的更改，而Git无法自动合并。你可以选择放弃本地更改或提交本地更改后再进行合并。如果要放弃更改，可以使用以下命令：
 
 ```
-shellCopy code
 git stash
 git pull origin branch-name
 git stash pop
@@ -131,7 +129,6 @@ git stash pop
 **解决方案**：这个错误通常发生在合并两个不相关的Git历史时。你可以使用以下命令来合并它们：
 
 ```
-shellCopy code
 git pull origin branch-name --allow-unrelated-histories
 ```
 
