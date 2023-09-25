@@ -86,3 +86,5 @@ StepthenJun：应该是三楼吧OvO
 
 jader: 混个四楼XD & 你们怎么知道我抢到了KFC联动
 	<img src="media/Star Rail.jpg" alt="Star Rail" width = 256 />
+
+ Midnight： Hello SOSD
