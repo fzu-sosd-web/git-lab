@@ -8,3 +8,6 @@ https://pan.baidu.com/s/1GqEqn-VNSqt3pXfmXDrgjQ
 
 网页不限速https://e9xahyk92o.feishu.cn/drive/folder/fldcnj6tXCLVz6LjIF5ck3skPWb
 
+## 2. 百度网盘 由(RockRockWhite)提供
+
+链接: https://pan.baidu.com/s/1wwpcOsodxA2JDQjG-iEIcA 提取码: 6hgb 
