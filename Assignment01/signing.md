@@ -86,7 +86,6 @@ shaoxiawjc:==报告，拿下二楼了==
 
 StepthenJun：应该是三楼吧OvO
 
-
 jader: 混个四楼XD & 你们怎么知道我抢到了KFC联动
 	<img src="media/Star Rail.jpg" alt="Star Rail" width = 256 />
 
@@ -95,3 +94,5 @@ jader: 混个四楼XD & 你们怎么知道我抢到了KFC联动
 Evil-Genus:啊？
 
 Qiuchenyue:Hello SOSD
+
+feng-lq:Hello SOSD+1
