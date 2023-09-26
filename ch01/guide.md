@@ -62,8 +62,6 @@ git clone git@github.com:your-username/your-repo.git
 1. 在本地编辑文件。
 2. 使用以下命令将更改添加到暂存区：
 
-
-
 ```
 git add 'filename'
 可以使用 git add . 来把当前目录下所有文件都加进去
