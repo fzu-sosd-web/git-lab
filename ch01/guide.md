@@ -45,10 +45,14 @@ git config --global user.email "your.email@example.com"
 
 ## 6. 克隆仓库
 
+因为我们打算使用ssh的形式来完成和github的通信，所以需要跟着这篇博客来完成ssh的认证
+
+[远程仓库](https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416)， 后续我会自己写一篇更好理解的（画饼）。
+
 要在本地计算机上使用仓库，你需要将其克隆到本地：
 
-```
-git clone https://github.com/your-username/your-repo.git
+```shell
+git clone git@github.com:your-username/your-repo.git
 ```
 
 **替换 `your-username` 和 `your-repo` 为你的 GitHub 用户名和仓库名称。**
@@ -60,6 +64,8 @@ git clone https://github.com/your-username/your-repo.git
 
 ```
 git add 'filename'
+可以使用 git add . 来把当前目录下所有文件都加进去
+RockRockWhite:"git add .中.是相对当前工作路径的所有文件"
 ```
 
 **记得我说的吗？引号里面的需要改成你自己的东西！**
@@ -107,7 +113,6 @@ git remote set-url origin new-url
 **解决方案**：这个错误通常表示你不在一个包含Git仓库的目录中。确保你在正确的目录中运行Git命令，或者在目标目录中初始化一个新的Git仓库：
 
 ```
-shellCopy code
 git init
 ```
 
@@ -116,7 +121,6 @@ git init
 **解决方案**：这个错误表示你有未提交的更改，而Git无法自动合并。你可以选择放弃本地更改或提交本地更改后再进行合并。如果要放弃更改，可以使用以下命令：
 
 ```
-shellCopy code
 git stash
 git pull origin branch-name
 git stash pop
@@ -131,7 +135,6 @@ git stash pop
 **解决方案**：这个错误通常发生在合并两个不相关的Git历史时。你可以使用以下命令来合并它们：
 
 ```
-shellCopy code
 git pull origin branch-name --allow-unrelated-histories
 ```
 

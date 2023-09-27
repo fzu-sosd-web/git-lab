@@ -39,6 +39,8 @@ git checkout -b 'new branch name'
 
 在新分支上进行你的更改，可以编辑文件、添加新功能或修复错误。
 
+在更改前，请确认你的本地开发分支是最新的状态！
+
 ## 步骤 5：提交更改
 
 将你的更改添加到暂存区并提交：
@@ -84,3 +86,16 @@ shaoxiawjc:==报告，拿下二楼了==
 
 StepthenJun：应该是三楼吧OvO
 
+
+jader: 混个四楼XD & 你们怎么知道我抢到了KFC联动
+	<img src="media/Star Rail.jpg" alt="Star Rail" width = 256 />
+
+ Midnight： Hello SOSD
+
+Evil-Genus:啊？
+
+Qiuchenyue:Hello SOSD
+
+3zhuyuning：peace
+
+Camellia3zzx:终于做到这里了，泪目
