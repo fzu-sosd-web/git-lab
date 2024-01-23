@@ -87,6 +87,7 @@ shaoxiawjc:==报告，拿下二楼了==
 StepthenJun：应该是三楼吧OvO
 
 
+<<<<<<< Updated upstream
 jader: 混个四楼XD & 你们怎么知道我抢到了KFC联动
 	<img src="media/Star Rail.jpg" alt="Star Rail" width = 256 />
 
@@ -99,3 +100,6 @@ Qiuchenyue:Hello SOSD
 3zhuyuning：peace
 
 Camellia3zzx:终于做到这里了，泪目
+=======
+
+cjt666-hhh:呜呜呜终于学会pr了，头秃
