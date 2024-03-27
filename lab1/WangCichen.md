@@ -1,4 +1,4 @@
-# Hi there 👋, I'm WangCichen!
+# Hi there 👋， I'm WangCichen!
 
 - 🤪 A freshman majoring in MMWD at Fuzhou University
 - 😺 Keen to travel,music and learn programming
